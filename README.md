@@ -25,3 +25,7 @@
 ![Rum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dia2001&theme=cobalt2&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dia2001&langs_count=10&layout=compact)
+
+<a href="#" title="vandia">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dia2001&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a
