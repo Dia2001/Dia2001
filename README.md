@@ -5,3 +5,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Mobile+Application+Developer;Web+Backend+Develope).
 
 [![My Facebook](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/dia.nguyen.5209/).
+
+## My Skills:
+ <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src = "https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"> <img src = "https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
