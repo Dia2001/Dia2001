@@ -37,4 +37,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dia2001&langs_count=10&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=manmandh&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Dia2001&icon=0&color=0)](https://visitcount.itsvg.in)
