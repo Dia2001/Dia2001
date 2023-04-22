@@ -35,3 +35,6 @@
 ![Rum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dia2001&show_icons=true&count_private=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dia2001&langs_count=10&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=manmandh&icon=0&color=0)](https://visitcount.itsvg.in)
