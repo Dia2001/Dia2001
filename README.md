@@ -8,7 +8,7 @@
 
 ## My Skills:
 
- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src = "https://img.shields.io/badge/C%23-823085?style=for-the-badge&logo=Csharp&logoColor=white"> <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> ![PHP](https://img.shields.io/badge/php-000022?style=for-the-badge&logo=php&logoColor=white) <img src =  "https://img.shields.io/badge/-DART-lightgrey?style=for-the-badge&logo=dart&logoColor=3300FF">
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src = "https://img.shields.io/badge/C%23-823085?style=for-the-badge&logo=Csharp&logoColor=white"> <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> ![PHP](https://img.shields.io/badge/php-000022?style=for-the-badge&logo=php&logoColor=white) <img src =  "https://img.shields.io/badge/-DART-0066CC?style=for-the-badge&logo=dart">
 
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
@@ -16,7 +16,7 @@
 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) <img src = "https://img.shields.io/badge/Spring--Boot-green?style=for-the-badge&logo=spring"> <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src = "https://img.shields.io/badge/-FLUTTER-lightgrey?style=for-the-badge&logo=flutter&logoColor=3300FF">
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) <img src = "https://img.shields.io/badge/Spring--Boot-green?style=for-the-badge&logo=spring"> <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src = "https://img.shields.io/badge/-FLUTTER-0066CC?style=for-the-badge&logo=flutter">
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/-POSTGRESQL-000011?style=for-the-badge&logo=POSTGRESQL"> <img src = "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> 
 
